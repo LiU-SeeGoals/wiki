@@ -10,7 +10,7 @@ Welcome to the wiki wiki!
 ### Tävlingen 
 [RoboCup small size league webpage](https://ssl.robocup.org/).  
 [Principles and Goals (official document)](https://robocup-ssl.github.io/ssl-goals/sslgoals.pdf).  
-[Regler](https://ssl.robocup.org/rules/) [html](https://robocup-ssl.github.io/ssl-rules/sslrules.html).  
+[Regler](https://ssl.robocup.org/rules/) ([html](https://robocup-ssl.github.io/ssl-rules/sslrules.html)).  
 [Maillista för tävlingen](https://lists.robocup.org/mm/lists/robocup-small.lists.robocup.org/).  
 [Tävlingens officiella discord](https://discord.gg/t724m8c).  
 [Final från 2022](https://www.youtube.com/watch?v=ZJktf_RM2kQ).  
