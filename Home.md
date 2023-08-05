@@ -2,11 +2,6 @@ Welcome to the wiki wiki!
 
 ## Länkar
 
-### ToeBiters 
-
-[GitHub](https://github.com/organizations/LiU-ToeBiters).  
-[Dokumentyta](https://liuonline.sharepoint.com/sites/ToeBiters).  
-
 ### Tävlingen 
 [RoboCup small size league webpage](https://ssl.robocup.org/).  
 [Principles and Goals (official document)](https://robocup-ssl.github.io/ssl-goals/sslgoals.pdf).  
