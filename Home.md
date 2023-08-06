@@ -17,7 +17,7 @@ Welcome to the wiki wiki!
 
 ### Tekniskt
 [League-maintained software](https://ssl.robocup.org/league-software/).  
-
+[Tigers Mannheim website](https://www.tigers-mannheim.de/index.php?id=65)
 #### Mjukvara 
 [Systemet som används för att se robotarna under tävlingen](https://github.com/RoboCup-SSL/ssl-vision/tree/master) mer info i [reglerna](https://robocup-ssl.github.io/ssl-rules/sslrules.html#_vision).  
 [För att kontrollera matcher under tävlingen](https://github.com/RoboCup-SSL/ssl-game-controller) mer info i [reglerna](https://robocup-ssl.github.io/ssl-rules/sslrules.html#_game_controller).  
