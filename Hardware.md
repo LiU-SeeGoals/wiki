@@ -2,7 +2,7 @@
 En robot som kan köra framåt.
 
 Hårdvara som behövs:
-- Mikrokontroller (STM32F7)
+- Mikrokontroller (STM32F7, kretskort via admittansen?)
 - Motor driver (Allegro Microsystems A3931 3-Phase BLDC)
 - Motorer Maxon EC-45  flat 50W
 - Hjul
