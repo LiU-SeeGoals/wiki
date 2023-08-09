@@ -1,11 +1,11 @@
-# Milstolpe 1
-En robot som kan köra framåt.
+# Milestone 1
+A robot that can drive forward.
 
-Hårdvara som behövs:
-- Mikrokontroller (STM32F7, kretskort via admittansen? Hur flasha?)
+Hardware needed:
+- Microcontroller (STM32F7, circuit board via admittance? How to flash?)
 - Motor driver (Allegro Microsystems A3931 3-Phase BLDC)
-- Motorer (Maxon EC-45  flat 50W)
-- Hjul (Ta 2020 designien och använa för 2016 för att slippa kugghjul)
-- 3D printad bas (https://www.tigers-mannheim.de/download/release2016/Mechanics-2016.zip)
-- 3D printade hjulfästen
-- Batteri
+- Motors (Maxon EC-45 flat 50W)
+- Wheels (Take 2020 design and use for 2016 to avoid gears)
+- 3D printed base (https://www.tigers-mannheim.de/download/release2016/Mechanics-2016.zip)
+- 3D printed wheel mounts
+- Battery
