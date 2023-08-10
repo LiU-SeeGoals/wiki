@@ -1,5 +1,3 @@
-* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
-
 This document describes the organisation of the project.
 
 ## Weekly meetings
