@@ -1,4 +1,4 @@
-__TOC__
+{:toc}
 
 This document describes the organisation of the project.
 
