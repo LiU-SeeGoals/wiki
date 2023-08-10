@@ -7,6 +7,20 @@ This document describes the organisation of the project.
 = Weekly meetings
 Every Tuesday during lunch (45 minutes) a weekly meeting is held.
 
+= Platforms
+
+== Github
+Forum, issue tracking, milestones, (open) documentation.
+
+== Discord
+Ephemeral chat for quick communication.
+
+== Sharepoint
+Private documents (ex. meeting protocols, member list, budget...)
+
+== Calendar
+Group activities, milestones, meetings...
+
 = Role responsibilities
 All roles are fluid; role owners can change during the project.
 
