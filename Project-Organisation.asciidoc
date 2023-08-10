@@ -1,5 +1,7 @@
 :toc:
 
+# About
+
 This document describes the organisation of the project.
 
 == Weekly meetings
