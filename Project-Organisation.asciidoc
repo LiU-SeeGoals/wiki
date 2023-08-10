@@ -1,7 +1,8 @@
+:toc:
+:toc-title: 
+
 = About
 This document describes the organisation of the project.
-
-:toc:
 
 = Weekly meetings
 Every Tuesday during lunch (45 minutes) a weekly meeting is held.
