@@ -1,6 +1,6 @@
 This document describes the organisation of the project.
 
-## Weekly meetings
+### Weekly meetings
 Every Tuesday during lunch (45 minutes) a weekly meeting is held.
 
 ### Role responsibilities
