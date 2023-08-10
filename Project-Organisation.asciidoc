@@ -18,7 +18,7 @@ Forum, issue tracking, milestones, (open) documentation.
 Ephemeral chat for quick communication, github notifications.
 
 == Sharepoint
-Private documents (ex. meeting protocols, member list, budget...)
+Private documents (ex. meeting protocols, members list, budget...)
 
 == Calendar
 Group activities, milestones, meetings...
