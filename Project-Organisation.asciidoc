@@ -15,7 +15,7 @@ The following platforms are used throughout the project.
 Forum, issue tracking, milestones, (open) documentation.
 
 == Discord
-Ephemeral chat for quick communication.
+Ephemeral chat for quick communication, github notifications.
 
 == Sharepoint
 Private documents (ex. meeting protocols, member list, budget...)
