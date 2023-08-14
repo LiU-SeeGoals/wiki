@@ -25,6 +25,7 @@ Welcome to the wiki wiki!
 [Google protobuf (Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data)](https://github.com/protocolbuffers/protobuf).  
 [Timestamped ProtoBuf logs of ssl-vision and ssl-game-controller from official matches](https://ssl.robocup.org/game-logs/).  
 [A simulator for SSL](https://github.com/RoboCup-SSL/grSim): Receiving data from the grSim is similar to receiving data from the [SSL-Vision](https://github.com/RoboCup-SSL/ssl-vision) using [Google Protobuf](https://github.com/google/protobuf) library. Sending data to the simulator is also possible using Google Protobuf. Sample clients are included in [clients](https://github.com/RoboCup-SSL/grSim/blob/master/clients) folder.  
+Qt [example project](https://github.com/robocin/ssl-client) to receive and send data to the simulator.
 
 #### Hardware 
 [TIGERs Mannheim - A Decade of Open-Source Robot Evolution](https://download.tigers-mannheim.de/papers/2021-RoboCup-Champion.pdf). 
