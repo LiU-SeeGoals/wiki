@@ -74,10 +74,10 @@ Main area encompassing all hardware-related aspects.
 == Management
 Main area encompassing all management-related aspects. The project leader is the team lead for this team.
 
-- Commits 2-3 hours every other week to administration (not counting weekly meetings).
-- Marketing
-- Sponsorships
-- Budget
-- Organisation
-- Qualification planning for competitions
-- Travel planning for competitions
+- Commits 2-3 hours every other week to administration (not counting weekly meetings).  
+- Marketing  
+- Sponsorships  
+- Budget  
+- Organisation  
+- Qualification planning for competitions  
+- Travel planning for competitions  
