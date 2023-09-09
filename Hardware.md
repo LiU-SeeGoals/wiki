@@ -1,4 +1,5 @@
 # 2023/2024
+Here is a general description of the robots used 2023/2024.
 
 ## Parts
 | What                    | Name                           | Units/robot | Units/Package |
