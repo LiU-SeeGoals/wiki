@@ -21,9 +21,9 @@ Multiple such xserver applications exist, but simplest is installing GWSL. This 
   1. Download the latest release .zip file. 
   2. Extract all the files to a suitable location. 
   3. Open Git Bash (or similar terminal, this guide is based on running the commands in Git Bash). 
-  4. Create a python venv in the extracted directory: python -m venv gwsl_installation 
-  5. Source the venv: source gwsl_installation/Scripts/activate 
+  4. Create a python venv in the extracted directory: `python -m venv gwsl_installation `
+  5. Source the venv: `source gwsl_installation/Scripts/activate`
   6. Install all the required packages according to the list on the GitHub. IMPORTANT: Install the lastest version of pyinstaller (remove “==3.5”) 
-  7. Run the command: python build.py 
+  7. Run the command: `python build.py `
   8. Start GWSL by running the GWSL.exe file in the dist/GWSL_*version* directory. 
   9. It will ask for access to the firewall and such, press “Allow” on all of them.
