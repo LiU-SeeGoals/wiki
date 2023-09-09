@@ -1,6 +1,8 @@
-# Milestones
+# 2023/2024
 
-## Milestone 1
+## Milestones
+
+### Milestone 1
 A program that can send instructions to and receive data from grSim.
 
 We want to control the robots by giving them only target positions, not velocities. The simulation environment however expects velocities. At some layer a translation needs to happen.
