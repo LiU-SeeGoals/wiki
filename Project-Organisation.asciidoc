@@ -19,7 +19,7 @@ All roles are fluid; role owners can change during the project.
 === Everyone
 - Is responsible to have notifications enabled on Discord and Github.
 - Actively engage within their team to achieve the team's goals.
-- Report to the team if they can't show up to a work day or meeting.
+- Reports to the team if they can't show up to a work day or meeting.
 
 === Team lead
 - Responsible for ensuring the team has defined work days.
