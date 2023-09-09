@@ -1,4 +1,5 @@
 # 2023/2024
+Here is some general information about the software stacked used these years.
 
 ## Milestones
 
