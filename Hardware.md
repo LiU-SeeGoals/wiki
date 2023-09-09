@@ -13,4 +13,4 @@ Here is a general description of the robots used 2023/2024.
 | Dribbler                |                                | 1           | 1             |
 | dribbler driver         |                                |             |               |
 | Motor driver            | XY-BLDC                        | 4           | 1             |
-| Buck converter till MCU | XL6019                         |             |               |
+| Buck converter to MCU   | XL6019                         |             |               |
