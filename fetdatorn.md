@@ -3,7 +3,7 @@
 # Guides
 
 ## Accessing from the outside
-
+[Read this document](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Files/Accessing%20Fetdatorn%20remotely.docx?d=w30b726675013425f9a12c631a33943ef&csf=1&web=1&e=GdSODA)
 
 ## X11 Forwarding on Windows
 Running GUI applications on Fetdatorn remotely 
