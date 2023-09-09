@@ -1,4 +1,4 @@
-`Fetdatorn` is the name of the computer we use to run most shared software solutions. On this page you'll find everything related to it.
+**Fetdatorn** is the name of the computer we use to run most shared software solutions. On this page you'll find everything related to it.
 
 # Guides
 
