@@ -2,82 +2,86 @@
 :toc:
 :toc-title: 
 
-= About
-This document describes the organisation of the project.
+== About
+This document describes the organisation of the ToeBiters project.
 
-= Weekly meetings
-Every Tuesday during lunch (45 minutes) a weekly meeting is held.
+== Workdays and meetings
 
-= Platforms
-The following platforms are used throughout the project.
+==== Workdays
+Every monday and wednesday the team has workdays in the lab. They start at 17:15. Check the calendar to see if a workday is scheduled or not.
 
-== Github
-Forum, issue tracking, milestones, (open) documentation.
+==== Meetings
+Every tuesday a scheduled management meeting takes place at 12:15. Everyone is welcome but only management has to be there.
 
-== Discord
-Ephemeral chat for quick communication, github notifications.
-
-== Sharepoint
-Private documents (ex. meeting protocols, members list, budget...)
-
-== Calendar
-Group activities, milestones, meetings...
-
-= Role responsibilities
+== Roles and responsibilites
 All roles are fluid; role owners can change during the project.
 
-== Everyone
-- Are responsible to have notifications enabled on Discord and Github.
-- Participates in the weekly meeting.
+=== Everyone
+- Is responsible to have notifications enabled on Discord and Github.
 - Actively engage within their team to achieve the team's goals.
+- Report to the team if they can't show up to a work day or meeting.
 
-== Team Lead
+=== Team lead
 - Responsible for ensuring the team has defined work days.
 - Responsible for dividing the work within the team.
 - Ensure that development-related routines are followed.
-- Acts as the contact person between the project leader/tech lead and the team.
+- Acts as the contact person between the project/tech-lead and the team.
 
-== Treasurer
+=== Treasurer
 - Responsible for creating and adhering to a budget.
 
-== Public relations
+=== Public relations
 - Responsible for events and marketing.
 
-== Sponsorship Coordinator
+=== Sponsorship coordinator
 - Responsible for building relationships with new and existing sponsors.
 
-== Team builder
+=== Team builder
 - Responsible for organising team-wide activities during the project (e.g., social gatherings).
 
-== Organiser
+=== Organiser
 - Responsible for managing the project's shared platforms (Github, Discord, Sharepoint, Calendar...).
 - Ensure routines related to these platforms are followed.
 
-== Tech Lead
+=== Tech lead
+- Works closely with the project lead and team leads.
 - Responsible for having a long-term development plan and following it.
-- Works closely with the project leader and team leads.
 
-== Project Leader
+=== Project lead
+- Works closely with the tech lead.
 - Responsible for having a long-term project plan and following it.
 - Ensures the project survives generational changes.
-- Works closely with the tech lead.
 
-= Teams
+== Teams
 Team membership is flexible, allowing for team switches or working in multiple teams.
 
-== Software
+=== Software
 Main area encompassing all software-related aspects.
 
-== Hardware
+=== Hardware
 Main area encompassing all hardware-related aspects.
 
-== Management
+=== Management
 Main area encompassing all management-related aspects. The project leader is the team lead for this team.
 
-- Commits 2-3 hours every other week to administration (not counting weekly meetings).  
 - Marketing  
 - Sponsorships  
 - Budget  
 - Organisation  
 - Qualification planning for competitions  
 - Travel planning for competitions  
+
+== Platforms
+The following platforms are used throughout the project.
+
+=== Github
+Forum, issue tracking, milestones, (open) documentation.
+
+=== Discord
+Ephemeral chat for quick communication, github notifications.
+
+=== Sharepoint
+Private documents (ex. meeting protocols, members list, budget...)
+
+=== Calendar
+Group activities, milestones, meetings...
