@@ -2,6 +2,9 @@
 
 # Guides
 
+## Accessing from the outside
+
+
 ## X11 Forwarding on Windows
 Running GUI applications on Fetdatorn remotely 
 
@@ -13,8 +16,8 @@ To run GUI applications on fetdatorn remotely on your own computer a XServer nee
 
 Multiple such xserver applications exist, but simplest is installing GWSL. This can be done by either: 
 
-* A) Downloading the GWSL.zip file from here [GWSL.zip](https://liuonline.sharepoint.com/:u:/r/sites/ToeBiters/Shared%20Documents/GWSL/GWSL.zip?csf=1&web=1&e=22Qd7x) and running the executable GWSL (Version 1.4.0). 
-* B) Building the latest version from source from https://github.com/Opticos/GWSL-Source 
+* A) Downloading the GWSL.zip file from here [GWSL.zip](https://liuonline.sharepoint.com/:u:/r/sites/ToeBiters/Shared%20Documents/Files/GWSL.zip?csf=1&web=1&e=XSHDkE) and running the executable GWSL (Version 1.4.0). 
+* B) Building the latest version from source from their [github repo](https://github.com/Opticos/GWSL-Source).
   1. Download the latest release .zip file. 
   2. Extract all the files to a suitable location. 
   3. Open Git Bash (or similar terminal, this guide is based on running the commands in Git Bash). 
