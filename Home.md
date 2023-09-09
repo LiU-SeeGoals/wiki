@@ -1,4 +1,4 @@
-This wiki contains documentation for the ToeBiters project. It's used to store public information that could be of use for both team members and other teams competing in the [SSL competition](https://ssl.robocup.org/).
+This wiki contains documentation for the ToeBiters project. It's used to store public information that could be of use for both team members and other teams competing in [SSL](https://ssl.robocup.org/).
 
 ### Layout
 There are no strict rules how the wiki should be structured, but there are some things to keep in mind when editing it.
