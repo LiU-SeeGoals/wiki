@@ -10,9 +10,6 @@ When accessing Fetdatorn from within the university's network you can connect di
 
 You can then SSH to Fetdatorn using ssh.edu.liu.se as the jump host, see [ssh_config_liu_jump.txt](https://liuonline.sharepoint.com/:t:/r/sites/ToeBiters/Shared%20Documents/Files/ssh_config_liu_jump.txt?csf=1&web=1&e=8iI6sl). This is guaranteed to always work. Another way, that won't always work, is [ssh_config_ext_jump.txt](https://liuonline.sharepoint.com/:t:/r/sites/ToeBiters/Shared%20Documents/Files/ssh_config_ext_jump.txt?csf=1&web=1&e=rnIbLC) (more info [here](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/_layouts/15/Doc.aspx?sourcedoc=%7B30B72667-5013-425F-9A12-C631A33943EF%7D&file=Accessing+Fetdatorn+remotely.docx&action=default&mobileredirect=true)).
 
-
-[Read this document](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Files/Accessing%20Fetdatorn%20remotely.docx?d=w30b726675013425f9a12c631a33943ef&csf=1&web=1&e=GdSODA)
-
 ## X11 Forwarding on Windows
 This is for running GUI applications on Fetdatorn remotely. Please update this guide with the necessary steps if you encounter any problems 
 
