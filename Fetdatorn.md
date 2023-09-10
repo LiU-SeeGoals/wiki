@@ -23,14 +23,14 @@ To run GUI applications on Fetdatorn remotely on your own computer a XServer nee
   8. Start GWSL by running the GWSL.exe file in the dist/GWSL_*version* directory. 
   9. It will ask for access to the firewall and such, press “Allow” on all of them.
 
-SSH to Fetdatorn 
+### SSH to Fetdatorn 
   1. Create (or update) your `.ssh/config` file (the standard directory location) according to this example file [ssh_config_example.txt](https://liuonline.sharepoint.com/:t:/r/sites/ToeBiters/Shared%20Documents/Files/ssh_config_example.txt?csf=1&web=1&e=XxRdQo)
   2.  Open a Git Bash terminal and set the DISPLAY environment variable to the one used by GWSL. To check this do the following: 
-    a. Press the little upwards pointing arrow in the bottom right corner of your screen 
-      ![ssh_to_fetdatorn_img1.png](ssh_to_fetdatorn_img1.png)
-    b. Click the icon with the two orange/yellow boxes. 
-      ![ssh_to_fetdatorn_img2.png](ssh_to_fetdatorn_img2.png)
-    c. At the top it says what DISPLAY the XServer is running on, in this case it is “localhost:0.0” 
+        * a. Press the little upwards pointing arrow in the bottom right corner of your screen  
+             ![ssh_to_fetdatorn_img1](https://github.com/LiU-ToeBiters/wiki/assets/86022094/8be7c9cc-1ac2-4cb3-aaa3-e7736edff941)
+        * b. Click the icon with the two orange/yellow boxes.  
+             ![ssh_to_fetdatorn_img2](https://github.com/LiU-ToeBiters/wiki/assets/86022094/5a1e018c-2d81-4c27-9765-3bdb7e0e804f)
+        * c. At the top it says what DISPLAY the XServer is running on, in this case it is “localhost:0.0” 
   3. Run the command: `export DISPLAY=localhost:0.0`
   4. Now SSH to fetdatorn, run the command: `ssh fetdatorn`
   5. Enter the password to the fia proxy-jump and then the password to your user on fetdatorn. 
