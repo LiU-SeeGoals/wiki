@@ -11,7 +11,7 @@ Since the university offers a way to access their network through a VPN it's als
 1. [Two-factor authentication enabled](https://tsv.liu.se/) on your school account, 
 2. and be connected to the [student VPN](https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a). 
 
-You can then SSH to Fetdatorn using ssh.edu.liu.se as the jump host, see [this](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/fetdatorn_ssh_configs.docx?d=wb407296122ee44b0a4e7c8fbd6ac7bbb&csf=1&web=1&e=hcYoez). This is guaranteed to always work. If, for some reason, you can't access the LiU VPN then check [this](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7B3fb2ffb7-42aa-4734-bf3a-f748f3d8f4c2%7D&action=edit).
+You can then SSH to Fetdatorn using `ssh.edu.liu.se` as the jump host, see [this](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/fetdatorn_ssh_configs.docx?d=wb407296122ee44b0a4e7c8fbd6ac7bbb&csf=1&web=1&e=hcYoez). This is guaranteed to always work. If, for some reason, you can't access the LiU VPN then check [this](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7B3fb2ffb7-42aa-4734-bf3a-f748f3d8f4c2%7D&action=edit).
 
 ## X11 Forwarding on Windows
 This is for running GUI applications on Fetdatorn remotely. Please update this guide with the necessary steps if you encounter any problems 
