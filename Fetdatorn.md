@@ -2,7 +2,7 @@
 
 # Guides
 
-## Accessing from inside the LiU network
+## Accessing from the inside
 As long as you're on campus you should be able to connect to Fetdatorn without problem, see [this](https://liuonline.sharepoint.com/sites/ToeBiters/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FToeBiters%2FShared+Documents%2FPrivate+documentation%2Fssh_config_liu_jump.txt&viewid=6d64e82c-3ca7-4fe3-a091-d01e590519e6&parent=%2Fsites%2FToeBiters%2FShared+Documents%2FPrivate+documentation).
 
 ## Accessing from the outside
