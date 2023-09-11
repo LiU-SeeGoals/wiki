@@ -2,13 +2,16 @@
 
 # Guides
 
+## Accessing from inside the LiU network
+As long as you're on campus you should be able to connect to Fetdatorn without problem, see [this](https://liuonline.sharepoint.com/sites/ToeBiters/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FToeBiters%2FShared+Documents%2FPrivate+documentation%2Fssh_config_liu_jump.txt&viewid=6d64e82c-3ca7-4fe3-a091-d01e590519e6&parent=%2Fsites%2FToeBiters%2FShared+Documents%2FPrivate+documentation).
+
 ## Accessing from the outside
-When accessing Fetdatorn from within the university's network you can connect directly to its IP. Since the university offers a way to access their network through a VPN it's also possible to access Fetdatorn remotely. You'll need two things for this:
+Since the university offers a way to access their network through a VPN it's also possible to access Fetdatorn remotely. You'll need two things for this:
 
 1. [Two-factor authentication enabled](https://tsv.liu.se/) on your school account, 
 2. and be connected to the [student VPN](https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a). 
 
-You can then SSH to Fetdatorn using ssh.edu.liu.se as the jump host, see [ssh_config_liu_jump.txt](https://liuonline.sharepoint.com/:t:/r/sites/ToeBiters/Shared%20Documents/Files/ssh_config_liu_jump.txt?csf=1&web=1&e=8iI6sl). This is guaranteed to always work. If, for some reason, you can't access the LiU VPN then check [this](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7B3fb2ffb7-42aa-4734-bf3a-f748f3d8f4c2%7D&action=edit).
+You can then SSH to Fetdatorn using ssh.edu.liu.se as the jump host, see [this](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7Bb4072961-22ee-44b0-a4e7-c8fbd6ac7bbb%7D&action=edit). This is guaranteed to always work. If, for some reason, you can't access the LiU VPN then check [this](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7B3fb2ffb7-42aa-4734-bf3a-f748f3d8f4c2%7D&action=edit).
 
 ## X11 Forwarding on Windows
 This is for running GUI applications on Fetdatorn remotely. Please update this guide with the necessary steps if you encounter any problems 
@@ -29,7 +32,7 @@ To run GUI applications on Fetdatorn remotely on your own computer a XServer nee
   9. It will ask for access to the firewall and such, press “Allow” on all of them.
 
 ### SSH to Fetdatorn 
-  1. Create (or update) your `.ssh/config` file (the standard directory location) according to this example file [ssh_config_proxy_example.txt](https://liuonline.sharepoint.com/:t:/r/sites/ToeBiters/Shared%20Documents/Files/ssh_config_example.txt?csf=1&web=1&e=XxRdQo)
+  1. Create (or update) your `.ssh/config` file (the standard directory location) according to one of [these](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7Bb4072961-22ee-44b0-a4e7-c8fbd6ac7bbb%7D&action=edit).
   2.  Open a Git Bash terminal and set the DISPLAY environment variable to the one used by GWSL. To check this do the following: 
         * a. Press the little upwards pointing arrow in the bottom right corner of your screen  
              ![ssh_to_fetdatorn_img1](https://github.com/LiU-ToeBiters/wiki/assets/86022094/8be7c9cc-1ac2-4cb3-aaa3-e7736edff941)
