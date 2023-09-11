@@ -13,6 +13,9 @@ Since the university offers a way to access their network through a VPN it's als
 
 You can then SSH to Fetdatorn using `ssh.edu.liu.se` as the jump host, see [this](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/fetdatorn_ssh_configs.docx?d=wb407296122ee44b0a4e7c8fbd6ac7bbb&csf=1&web=1&e=hcYoez). This is guaranteed to always work. If, for some reason, you can't access the LiU VPN then check [this](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7B3fb2ffb7-42aa-4734-bf3a-f748f3d8f4c2%7D&action=edit).
 
+## Connecting to it with ThinLinc
+To access Fetdatorn with ThinLinc you'll have to do it through [tailscale](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7B3fb2ffb7-42aa-4734-bf3a-f748f3d8f4c2%7D&action=edit). Basically you set it up and connect to Fetdatorn's tailscale IP and it should work. For details about thinlinc, chech [this](https://liuonline.sharepoint.com/sites/ToeBiters/_layouts/15/doc.aspx?sourcedoc=%7Bc9f756e5-869d-4bf2-b268-5125811b9e61%7D&action=edit).
+
 ## X11 Forwarding on Windows
 This is for running GUI applications on Fetdatorn remotely. Please update this guide with the necessary steps if you encounter any problems 
 
