@@ -32,7 +32,7 @@ To run GUI applications on Fetdatorn remotely on your own computer a XServer nee
   9. It will ask for access to the firewall and such, press “Allow” on all of them.
 
 ### SSH to Fetdatorn 
-  1. Create (or update) your `.ssh/config` file (the standard directory location) according to one of [these](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/fetdatorn_ssh_configs.docx?d=wb407296122ee44b0a4e7c8fbd6ac7bbb&csf=1&web=1&e=hcYoez).
+  1. Create (or update) your `.ssh/config` file (the standard directory location) according to one of [these](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/fetdatorn_ssh_configs.docx?d=wb407296122ee44b0a4e7c8fbd6ac7bbb&csf=1&web=1&e=hcYoez) (see more instructions above how to actually access the computer from inside/outside).
   2.  Open a Git Bash terminal and set the DISPLAY environment variable to the one used by GWSL. To check this do the following: 
         * a. Press the little upwards pointing arrow in the bottom right corner of your screen  
              ![ssh_to_fetdatorn_img1](https://github.com/LiU-ToeBiters/wiki/assets/86022094/8be7c9cc-1ac2-4cb3-aaa3-e7736edff941)
