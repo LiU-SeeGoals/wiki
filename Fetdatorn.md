@@ -41,6 +41,5 @@ To run GUI applications on Fetdatorn remotely on your own computer a XServer nee
         * c. At the top it says what DISPLAY the XServer is running on, in this case it is “localhost:0.0” 
   3. Run the command: `export DISPLAY=localhost:0.0`
   4. Now SSH to fetdatorn, run the command: `ssh fetdatorn`
-  5. Enter the password to the fia proxy-jump and then the password to your user on fetdatorn. 
-  6. You’re in! 
-  7. Try running xeyes in the terminal. If everything works you should have a pair of eyes on your local machine following your mouse cursor.
+  5. You’re in! 
+  6. Try running xeyes in the terminal. If everything works you should have a pair of eyes on your local machine following your mouse cursor.
