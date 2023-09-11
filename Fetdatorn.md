@@ -40,6 +40,6 @@ To run GUI applications on Fetdatorn remotely on your own computer a XServer nee
              ![ssh_to_fetdatorn_img2](https://github.com/LiU-ToeBiters/wiki/assets/86022094/5a1e018c-2d81-4c27-9765-3bdb7e0e804f)
         * c. At the top it says what DISPLAY the XServer is running on, in this case it is “localhost:0.0” 
   3. Run the command: `export DISPLAY=localhost:0.0`
-  4. Now SSH to fetdatorn, run the command: `ssh fetdatorn`
+  4. Now SSH to fetdatorn, run the command: `ssh <Host>` (depending on which config you chose).
   5. You’re in! 
   6. Try running xeyes in the terminal. If everything works you should have a pair of eyes on your local machine following your mouse cursor.
