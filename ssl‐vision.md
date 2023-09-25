@@ -14,3 +14,5 @@ The cameras are only accessible from [fetdatorn](fetdatorn). They're of the mode
 - Username/password: [here](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/Cameras%20details.docx?d=w874584b250544826a239818754af4219&csf=1&web=1&e=696OaL)
 - Network: The switch at fetdatorn
 - IP: 192.168.1.3/24
+
+[Football field setup.pdf](https://github.com/LiU-ToeBiters/wiki/files/12712960/Football.field.setup.pdf)
