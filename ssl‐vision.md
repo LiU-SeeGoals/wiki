@@ -1,5 +1,3 @@
-
-![Fotbollsplan](https://github.com/LiU-ToeBiters/wiki/assets/75081269/752dda1f-a86a-4f9e-9a0f-727ea13fcfa9)
 Things related to ssl-vision running in the lab.
 
 # Guides
@@ -17,4 +15,6 @@ The cameras are only accessible from [fetdatorn](fetdatorn). They're of the mode
 - Network: The switch at fetdatorn
 - IP: 192.168.1.3/24
 
-[Football field setup.pdf](https://github.com/LiU-ToeBiters/wiki/files/12712960/Football.field.setup.pdf)
+# Football Field Setup
+> TODO: Make a nicer sketch
+<img src="https://github.com/LiU-ToeBiters/wiki/assets/75081269/752dda1f-a86a-4f9e-9a0f-727ea13fcfa9" alt="Football Field Setup" width="600"/>
