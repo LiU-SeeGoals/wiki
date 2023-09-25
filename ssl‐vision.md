@@ -1,3 +1,5 @@
+
+![Fotbollsplan](https://github.com/LiU-ToeBiters/wiki/assets/75081269/752dda1f-a86a-4f9e-9a0f-727ea13fcfa9)
 Things related to ssl-vision running in the lab.
 
 # Guides
