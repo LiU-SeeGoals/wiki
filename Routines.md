@@ -1,14 +1,11 @@
 ## Feature Branch Integration
 
-### Feature Branch Creation
-Create feature branch by linking it to an issue. This can be done when editing the issue.
-Creating issue in this manner will give it a identifier number.
-
 ### Writing Commits
 If feature branch has specific a identifier number - start commit with "ID: <your message>"
 
 ### Squash Commits
 Make sure to squash smaller commits before integration.
+[Tutorial](https://www.youtube.com/watch?v=V5KrD7CmO4o)
 
 ### Rebase
 Use rebase, not merge! Workflow:
