@@ -1,8 +1,5 @@
 ## Feature Branch Integration
 
-### Writing Commits
-If feature branch has specific a identifier number - start commit with "ID: <your message>"
-
 ### Squash Commits
 Make sure to squash ([Tutorial](https://www.youtube.com/watch?v=V5KrD7CmO4o)) smaller commits before integration.
 
