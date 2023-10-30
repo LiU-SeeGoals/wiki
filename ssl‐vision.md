@@ -28,6 +28,9 @@ Before you can run SSL-Vision, it needs to be compiled. Run the following comman
 
 You can now run the program by typing `./bin/vision`
 
+## Set up camera stream
+After opening SSL-Vision, find the tree on the left side of the window. Choose a thread to put the stream on (ex `Thread 0`) and open `Image Capture -> VAPIX -> Capture Settings` and fill in the fields. To start the stream, open `Image Capture -> Capture Control` and press `start capture`.
+
 ## Field Line Calibration
 To calibrate the field lines, go into the `Camera Calibration` tab in SSL-vision. The `Line Search Corridor Width` specifies the area in which SSL-vision will look for lines.
 
