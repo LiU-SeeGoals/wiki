@@ -18,7 +18,7 @@ The cameras are only accessible from [fetdatorn](fetdatorn). They're of the mode
 ### Can't connect?
 If you can't connect to the cameras, do the following:
 1. Run the command `ip addr`
-2. Check if enp4s0 has the IP 192.168.1.10/24. 
+2. Check if `enp4s0` has the IP `192.168.1.10/24`. 
 3. If not, run the command `ip addr add 192.168.1.10/24 dev enp4s0`
 
 ## Run SSL-Vision
