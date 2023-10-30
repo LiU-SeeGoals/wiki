@@ -21,6 +21,13 @@ If you can't connect to the cameras, do the following:
 2. Check if enp4s0 has the IP 192.168.1.10/24. 
 3. If not, run the command `ip addr add 192.168.1.10/24 dev enp4s0`
 
+## Run SSL-Vision
+Before you can run SSL-Vision, it needs to be compiled. Run the following commands:
+1. `make configure_vapix`
+2. `make`
+
+You can now run the program by typing `./bin/vision`
+
 ## Field Line Calibration
 To calibrate the field lines, go into the `Camera Calibration` tab in SSL-vision. The `Line Search Corridor Width` specifies the area in which SSL-vision will look for lines.
 
