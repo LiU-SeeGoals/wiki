@@ -30,9 +30,9 @@ You can now run the program by typing `./bin/vision`
 
 ## Set up camera stream
 After opening SSL-Vision, find the tree on the left side of the window. Choose a thread to put the stream on (ex `Thread 0`) and open:
-`Image Capture -> VAPIX -> Capture Settings` 
+- `Image Capture -> VAPIX -> Capture Settings` 
 and fill in the fields. To start the stream, open 
-`Image Capture -> Capture Control` 
+- `Image Capture -> Capture Control` 
 and press `start capture`.
 
 ## Field Line Calibration
