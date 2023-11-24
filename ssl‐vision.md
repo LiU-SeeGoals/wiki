@@ -6,12 +6,12 @@ Things related to ssl-vision running in the lab.
 The cameras are only accessible from [fetdatorn](fetdatorn). They're of the model **AXIS M3005 Network Camera**. There are four cameras but only two are configured. To access stream on Linux: `ffplay –fflags nobuffer –flags low_delay rtsp://root:root@192.168.1.1/axis-media/media.amp`. It's also possible to access the cameras by typing the ip-address into a browser.
 
 ### Camera 1 (closest to corridor)
-- Username/password: [here](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/Cameras%20details.docx?d=w874584b250544826a239818754af4219&csf=1&web=1&e=696OaL)
+- Username/password: [here](https://docs.google.com/document/d/1LYqpy--IQllFhHvlJd8Hz6MNWORbsYfvObYwvCFx8y4/edit)
 - Network: The switch at fetdatorn
 - IP: 192.168.1.1/24
 
 ### Camera 3 (closest to computers)
-- Username/password: [here](https://liuonline.sharepoint.com/:w:/r/sites/ToeBiters/Shared%20Documents/Private%20documentation/Cameras%20details.docx?d=w874584b250544826a239818754af4219&csf=1&web=1&e=696OaL)
+- Username/password: [here](https://docs.google.com/document/d/1LYqpy--IQllFhHvlJd8Hz6MNWORbsYfvObYwvCFx8y4/edit)
 - Network: The switch at fetdatorn
 - IP: 192.168.1.3/24
 
