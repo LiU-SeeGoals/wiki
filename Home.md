@@ -1,4 +1,4 @@
-This wiki contains documentation for the SeeGoals project. It's used to store public information that could be of use for project members, other teams competing in [SSL](https://ssl.robocup.org/) and to people just curious about the project.
+This wiki contains documentation for the SeeGoals project. It's used to store public information that could be of use for project members, other teams competing in [SSL](https://ssl.robocup.org/) and people just curious about the project.
 
 ### Layout
 There are no strict rules to how the wiki should be structured, but there are a few things to keep in mind when editing it.
