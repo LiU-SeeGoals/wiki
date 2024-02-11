@@ -2,7 +2,7 @@
 
 Start by creating a schematic, this is required to make a pcb. 
 
-(Click Here)[https://www.youtube.com/watch?v=3FGNw28xBr0] is a good concise full video from schematic to pcb.
+[Click Here](https://www.youtube.com/watch?v=3FGNw28xBr0] is a good concise full video from schematic to pcb.)
 
 # I have started what do i need to think about?
 
@@ -24,10 +24,8 @@ There is always cross talk between traces, this is caused by high transients whe
 
 # More learning
 
-Vidoes contatning these tops are
-
-* (A very long (but good), and comprehensive video about the whole process of designen for STM32 platforms) [https://youtu.be/14_jh3nLSsU]
-* (Mistakes to think about)[https://www.youtube.com/watch?v=hkSad4n76Lc]
-* (Noise between traces)[https://www.youtube.com/watch?v=67mRFXSbCw0]
-* (How to think about communication protocols when designing pcbs)[https://www.youtube.com/watch?v=eheh938ESU0]
-* (Video about mistakes, and showing how to think about via and trace width)[https://www.youtube.com/watch?v=D0X76Kbf8fQ]
+* [A very long (but good), and comprehensive video about the whole process of designen for STM32 platforms](https://youtu.be/14_jh3nLSsU)
+* [Mistakes to think about](https://www.youtube.com/watch?v=hkSad4n76Lc)
+* [Noise between traces](https://www.youtube.com/watch?v=67mRFXSbCw0) 
+* [How to think about communication protocols when designing pcbs](https://www.youtube.com/watch?v=eheh938ESU0)
+* [Video about mistakes, and showing how to think about via and trace width](https://www.youtube.com/watch?v=D0X76Kbf8fQ)
