@@ -4,7 +4,7 @@ Start by creating a schematic, this is required to make a pcb.
 
 [This video](https://www.youtube.com/watch?v=3FGNw28xBr0) is a good concise full video from schematic to pcb.)
 
-# I have started what do i need to think about?
+# I now want to start what do i need to think about?
 
 First and foremost, expect that things will not work or that there will be issues in the first design. Keep that in mind, try not to make too large of a design and divide PCBs into smaller boards that can be tested to make sure a specific part works. 
 
