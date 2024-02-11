@@ -6,6 +6,18 @@ Start by creating a schematic, this is required to make a pcb.
 
 # I have started what do i need to think about?
 
+First and foremost, expect that things will not work or that there will be issues in the first design. Keep that in mind, try not to make too large of a design and divide PCBs into smaller boards that can be tested to make sure a specific part works. 
+
+## How do i know which components or ICs to use?
+
+This is hard to say, and requires a lot of googling. Looking what other teams have done through the TDP search engine is likely the best starting point. After that you can try to find the most simple ICs, which works for your requirement. A lot of googling is likely required here.
+
+## Capacitors and inductances
+
+From our experience these components are just used to make signals more smooth which is important but also, don't think to hard about it. A capacitor discharges voltage when there is a voltage drop, an inductor "keeps" some current which is released when the current drops.
+
+Follow the guidelines from the datasheets of components you use and this will likely be fine.
+
 ## Tools
 
 Majority of the project designs are created using KiCad, 
