@@ -12,7 +12,7 @@ This is hard to say, and requires a lot of googling. Looking what other teams ha
 
 ## Capacitors and inductances
 
-From our experience these components are just used to make signals more smooth which is important but also, don't think to hard about it. A capacitor discharges voltage when there is a voltage drop, an inductor "keeps" some current which is released when the current drops.
+From our experience these components are just used to make signals more smooth which is important, but also don't think to hard about it. A capacitor discharges voltage when there is a voltage drop, an inductor "keeps" some current which is released when the current drops.
 
 Follow the guidelines from the datasheets of components you use and this will likely be fine.
 
