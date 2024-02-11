@@ -2,7 +2,7 @@
 
 Start by creating a schematic, this is required to make a pcb. 
 
-[Click Here](https://www.youtube.com/watch?v=3FGNw28xBr0] is a good concise full video from schematic to pcb.)
+[This video](https://www.youtube.com/watch?v=3FGNw28xBr0) is a good concise full video from schematic to pcb.)
 
 # I have started what do i need to think about?
 
